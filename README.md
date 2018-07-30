@@ -8,4 +8,11 @@ npm i --save
 npm run start
 
 *Web*
-![Dashboard](https://github.com/atelesjr/Trillo/blob/master/frontend/img/snaps/01.JPG)
+![Web-01](https://github.com/atelesjr/Trillo/blob/master/img/snaps/01.PNG)
+
+![Web-02](https://github.com/atelesjr/Trillo/blob/master/img/snaps/02.PNG)
+
+*Tablet*
+![tab-03](https://github.com/atelesjr/Trillo/blob/master/img/snaps/03.PNG)
+
+![tab-04](https://github.com/atelesjr/Trillo/blob/master/img/snaps/04.PNG)
