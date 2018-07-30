@@ -8,4 +8,4 @@ npm i --save
 npm run start
 
 *Web*
-![Dashboard](https://github.com/atelesjr/TRILLO/blob/master/frontend/img/snaps/01.JPG)
+![Dashboard](https://github.com/atelesjr/Trillo/blob/master/frontend/img/snaps/01.JPG)
