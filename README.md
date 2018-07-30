@@ -1,10 +1,10 @@
 # Trillo Project
 Advanced CSS and Sass, HTML, interface developed with CSS Flex-box technique, some animation features, responsible applied for web and tablet. Browser support as well.
 
-#To install dependencies 
+#To install dependencies
 npm i --save
 
-#To start Front-end:
+#To start:
 npm run start
 
 
